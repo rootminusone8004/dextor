@@ -1,0 +1,21 @@
+* Installation
+
+Installation process work for Debian, Arch Linux and there derivatives.
+
+** download packages
+
+In order to run this program, you need the following packages to be installed.
+
+_Notice_: /First commands are for *Debian and its derivatives*  and the second ones are for *Arch Linux and its derivatives*./ 
+
+- git
+#+begin_src bash
+  sudo apt install git
+  sudo pacman -S git
+#+end_src
+** clone repository
+
+Open your terminal and execute this:
+#+begin_src bash
+  git clone -b devel "git@github:rootminusone8004/dextor.git"
+#+end_src

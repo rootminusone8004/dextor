@@ -1,0 +1,13 @@
+* todo list
+
+** features
+- [X] base setup
+
+** bug fixes
+- blank
+
+** enhancements
+- blank
+
+** miscellaneous
+- blank

@@ -1,0 +1,14 @@
+* warning
+
+This is just a development branch. It is not guaranteed that this will work.
+
+** Installation
+
+See [[file:INSTALL.org][INSTALL.org]] for details.
+
+** Run
+
+Copy the git repository along with its content in your desired location (preferred is _/local/programs/_). Then run the following command:
+#+begin_src bash
+  source .azan/bin/activate && ./adhan.py
+#+end_src
