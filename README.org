@@ -1,0 +1,17 @@
+* Dextor
+
+ Just a sample scripts.
+
+** Installation
+
+See [[file:INSTALL.org][INSTALL.org]] for details.
+
+** Run
+
+Copy the git repository along with its content in your desired location (preferred is _/local/programs/_). Then run the following command:
+#+begin_src bash
+  source .azan/bin/activate && ./adhan.py
+#+end_src
+** License
+
+Since it is a private repository, no license is required.
